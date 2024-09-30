@@ -38,8 +38,8 @@ h1 {
 }
 
 .game {
-    height: 75vmin;
-    width: 75vmin;
+    height: 82vmin;
+    width: 82vmin;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -48,8 +48,8 @@ h1 {
 }
 
 .box {
-    height: 18vmin;
-    width: 18vmin;
+    height: 13vmin;
+    width: 13vmin;
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem rgba(126, 44, 44, 0.35);
